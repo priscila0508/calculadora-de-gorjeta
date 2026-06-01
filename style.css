@@ -124,7 +124,7 @@ main {
     color: var(--green-500);
 }
 
-.gorjeta #outra input::placeholder {
+.gorjeta #outra::placeholder {
     color: var(--green-300);
 }
 
